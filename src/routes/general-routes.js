@@ -8,7 +8,7 @@ export default [
     // Default route
     {
         path: '/',
-        redirect: '/login'
+        redirect: '/dashboard'
     },
 
     // Errors
