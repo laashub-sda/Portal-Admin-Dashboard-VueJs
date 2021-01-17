@@ -2,6 +2,7 @@ import '@popperjs/core'
 // import 'bootstrap/dist/js/bootstrap.min.js' // Not Working
 import 'bootstrap/dist/css/bootstrap.min.css'
 import '@/assets/css/portal.css'
+import '@fortawesome/fontawesome-free/css/all.min.css'
 import sidePanelComponent from '@/components/SidePanelComponent'
 import headerComponent from '@/components/HeaderComponent'
 
